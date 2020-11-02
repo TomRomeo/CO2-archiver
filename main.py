@@ -13,5 +13,3 @@ load_dotenv(join(dirname(__file__), ".env"))
 ip = os.getenv("IP")
 port = os.getenv("PORT")
 
-print(ip)
-print(port)
