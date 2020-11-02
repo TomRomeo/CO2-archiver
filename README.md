@@ -1,2 +1,3 @@
 #Required
 python-dotenv
+requests
